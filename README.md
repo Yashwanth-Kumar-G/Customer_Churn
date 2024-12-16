@@ -1,4 +1,5 @@
 # Customer_Churn
+Customer churn, also known as customer attrition, is when someone chooses to stop using your products or services. In effect, it’s when a customer ceases to be a customer. Customer churn is measured using customer churn rate. That’s the number of people who stopped being customers during a set period of time, such as a year, a month, or a financial quarter.
 
 # Overview
 This project focuses on analyzing customer behavior and predicting churn using machine learning techniques. By leveraging customer demographic, behavioral, and transaction data, it aims to identify valuable customers and implement targeted retention strategies.
